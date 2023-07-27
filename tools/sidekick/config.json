@@ -1,6 +1,6 @@
 {
     "project": "SecurBank",
-    "host": "www.securbankdemomumbai.com",
+    "host": "main--securbank--pbanerjeeadobe.hlx.live",
     "plugins": [
         {
             "id": "library",
